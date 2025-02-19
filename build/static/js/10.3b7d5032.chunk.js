@@ -1,0 +1,2 @@
+(this.webpackJsonpkrishna=this.webpackJsonpkrishna||[]).push([[10],{138:function(s,i,c){"use strict";c.r(i),i.default=c.p+"static/media/iphone-8.ed29cc1c.md"}}]);
+//# sourceMappingURL=10.3b7d5032.chunk.js.map

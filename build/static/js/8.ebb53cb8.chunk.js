@@ -1,0 +1,2 @@
+(this.webpackJsonpkrishna=this.webpackJsonpkrishna||[]).push([[8],{136:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/creative-art.2eb87d90.md"}}]);
+//# sourceMappingURL=8.ebb53cb8.chunk.js.map

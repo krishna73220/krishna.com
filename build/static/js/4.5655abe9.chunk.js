@@ -1,0 +1,2 @@
+(this.webpackJsonpkrishna=this.webpackJsonpkrishna||[]).push([[4],{132:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/how-to-become-better-with-ui-design.cb9cebf5.md"}}]);
+//# sourceMappingURL=4.5655abe9.chunk.js.map

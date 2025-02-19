@@ -1,0 +1,2 @@
+(this.webpackJsonpkrishna=this.webpackJsonpkrishna||[]).push([[7],{135:function(s,a,i){"use strict";i.r(a),a.default=i.p+"static/media/apple-usb.488abf75.md"}}]);
+//# sourceMappingURL=7.7323ca10.chunk.js.map
