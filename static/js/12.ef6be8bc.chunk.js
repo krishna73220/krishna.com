@@ -1,0 +1,2 @@
+(this.webpackJsonpkrishna=this.webpackJsonpkrishna||[]).push([[12],{140:function(s,a,i){"use strict";i.r(a),a.default=i.p+"static/media/work-space.7348c192.md"}}]);
+//# sourceMappingURL=12.ef6be8bc.chunk.js.map
