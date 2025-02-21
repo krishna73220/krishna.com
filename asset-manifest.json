@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/krishna.com/static/css/main.1a15df05.chunk.css",
-    "main.js": "/krishna.com/static/js/main.35705e81.chunk.js",
-    "main.js.map": "/krishna.com/static/js/main.35705e81.chunk.js.map",
+    "main.js": "/krishna.com/static/js/main.b0eed302.chunk.js",
+    "main.js.map": "/krishna.com/static/js/main.b0eed302.chunk.js.map",
     "runtime-main.js": "/krishna.com/static/js/runtime-main.82c94e30.js",
     "runtime-main.js.map": "/krishna.com/static/js/runtime-main.82c94e30.js.map",
     "static/css/2.d1e57958.chunk.css": "/krishna.com/static/css/2.d1e57958.chunk.css",
@@ -48,6 +48,6 @@
     "static/css/2.d1e57958.chunk.css",
     "static/js/2.2c8a64af.chunk.js",
     "static/css/main.1a15df05.chunk.css",
-    "static/js/main.35705e81.chunk.js"
+    "static/js/main.b0eed302.chunk.js"
   ]
 }
