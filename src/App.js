@@ -25,6 +25,7 @@ function App() {
     <BrowserRouter>
       <Switch>
         <Route path="/" component={Homepage} exact />
+    <Route path="krishna.com/" component={Homepage} exact />
         <Route path="/multipage" component={Multipage} exact />
         <Route path="/blogs" component={Bloglist} exact />
         <Route path="/bloglist" component={Bloglist2} exact />
